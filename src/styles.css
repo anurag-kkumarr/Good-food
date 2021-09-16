@@ -1,0 +1,9 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+  font-family: sans-serif;
+}
+body {
+  background-color: #efefef;
+}
